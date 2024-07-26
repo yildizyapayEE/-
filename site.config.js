@@ -8,12 +8,12 @@ const CONFIG = {
     email: "mivmiyaw@gmail.com",
     linkedin: "",
     github: "",
-    instagram: "",
+    instagram: "https://www.instagram.com/yildizyapayzeka",
   },
   projects: [
     {
       name: `Yıldız Yapay Zeka`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "https://www.instagram.com/yildizyapayzeka",
     },
   ],
   // blog setting (required)
